@@ -1,3 +1,4 @@
 Projet
 
-Ce projet concerne la créatio d'un site dédié à la Ligue Féminine de football.
+Ce projet concerne la création d'un site dédié à la Ligue Féminine de football.
+Création par la suite de l'application.
